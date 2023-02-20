@@ -1,0 +1,1 @@
+DROP PROCEDURE IF EXISTS insert_author_genre(author_title text, genre_title text);
